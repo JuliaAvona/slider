@@ -1,2 +1,2 @@
 # slider
-picture slider
+https://juliaavona.github.io/slider/
